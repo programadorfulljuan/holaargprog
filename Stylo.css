@@ -1,0 +1,16 @@
+body {
+    display: grid;
+    min-height: 100vh;
+    place-items: center;
+    font-size: 1.5rem;
+    background-color: linen;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+}
